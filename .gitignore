@@ -1,0 +1,7 @@
+CMakeCache.txt
+CMakeFiles/
+Makefile
+c-echo
+test
+cmake_install.cmake
+googletest/
